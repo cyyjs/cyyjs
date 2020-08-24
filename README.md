@@ -3,4 +3,4 @@
 
 Hi, I'm cyy, a passionate  frontEnd web developer.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyyjs&layout=compact&theme=radical" />
+<!--img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cyyjs&layout=compact&theme=radical" /-->
