@@ -1,8 +1,13 @@
+<p align="center">
+<a href="https://cyyjs.top" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0D9745&center=true&vCenter=true&random=false&width=500&lines=Hi%2C+I'm+Cyy;Full-stack+web+developer;10%2B+years+of+coding+experience" alt="Typing SVG" /></a>
+</p>
+
 ### Hi there 👋
+
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=cyyjs&show_icons=true&hide_title=true&theme=radical" />
 
-Hi, I'm cyy, a passionate  frontEnd web developer.
+Hi, I'm cyy, a passionate Full-stack web developer.
 
 **Languages and Tools:**
 
